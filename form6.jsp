@@ -6,7 +6,7 @@
 
 </head>
 <body>
-	<form action="pricdess.jsp" method="POST">
+	<form action="prcess.jsp" method="POST">
 		<p> 독서 <input type ="checkbox" name="reading">
 			운동 <input type ="checkbox" name="exercise">
 			영화 <input type ="checkbox" name="movie">
